@@ -1,0 +1,18 @@
+3c52993 (HEAD -> EPMRDUASTT-425, develop, EPMRDUASTT-425_2, EPMRDUASTT-425_1) HEAD@{0}: merge develop: Fast-forward
+e85183d (origin/main, origin/HEAD, main) HEAD@{1}: checkout: moving from EPMRDUASTT-425_2 to EPMRDUASTT-425
+3c52993 (HEAD -> EPMRDUASTT-425, develop, EPMRDUASTT-425_2, EPMRDUASTT-425_1) HEAD@{2}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425_2
+3c52993 (HEAD -> EPMRDUASTT-425, develop, EPMRDUASTT-425_2, EPMRDUASTT-425_1) HEAD@{3}: merge develop: Fast-forward
+dcf55d5 HEAD@{4}: checkout: moving from develop to EPMRDUASTT-425_1
+3c52993 (HEAD -> EPMRDUASTT-425, develop, EPMRDUASTT-425_2, EPMRDUASTT-425_1) HEAD@{5}: merge EPMRDUASTT-425_2: Fast-forward
+dcf55d5 HEAD@{6}: merge EPMRDUASTT-425_1: Fast-forward
+1997a0f HEAD@{7}: checkout: moving from EPMRDUASTT-425_2 to develop
+3c52993 (HEAD -> EPMRDUASTT-425, develop, EPMRDUASTT-425_2, EPMRDUASTT-425_1) HEAD@{8}: commit: Include stylesheets into index.html file
+4b3094f HEAD@{9}: commit: Created main & secondary stylesheets
+dcf55d5 HEAD@{10}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425_2
+dcf55d5 HEAD@{11}: commit: Added some images inside gallery block
+78b0058 HEAD@{12}: commit: Rebuild html structure, added gallery block
+1c9d4aa HEAD@{13}: commit: Added albums with images, added Server.js
+1997a0f HEAD@{14}: checkout: moving from develop to EPMRDUASTT-425_1
+1997a0f HEAD@{15}: commit: Create index.html, default layout
+e85183d (origin/main, origin/HEAD, main) HEAD@{16}: checkout: moving from main to develop
+e85183d (origin/main, origin/HEAD, main) HEAD@{17}: clone: from https://github.com/AntonBurchak/git-practice.git
